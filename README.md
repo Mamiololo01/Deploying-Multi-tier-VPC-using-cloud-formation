@@ -72,3 +72,14 @@ Step 5: Deployment in Progress
 
 You can see the deployment progress by clicking on the events tab under our stack. The deployment events will show you in real time each and every resource that is being deployed along with their status.
 The deployment time will take a few minutes before everything is successfully deployed.
+
+
+
+
+Please dont forget to clean up the infrastructure to avoid bills;
+
+<img width="1279" alt="Screenshot 2023-07-29 at 00 26 51" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/e99ea93b-6872-4463-b9e9-c0c1908ab3c0">
+
+<img width="1014" alt="Screenshot 2023-07-29 at 00 25 13" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/3eba6caa-1cde-49f7-9451-3ea57600ab67">
+
+<img width="1020" alt="Screenshot 2023-07-29 at 00 24 50" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/f0edb2e6-97fc-460c-a290-834cdb961268">
