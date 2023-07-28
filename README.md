@@ -1,6 +1,5 @@
 # Deploying-Multi-tier-VPC-using-cloud-formation
 
-
 Step 1: Login to your AWS Account & Create the AWS CloudFormation Stack
 
 Login to your AWS account and type “AWS CloudFormation” into the search box to bring up the AWS CloudFormation console. Click on “With new resources (standard)”
@@ -14,7 +13,6 @@ Under the Specify template tab, “Select upload a template file”. Please refe
 The template we will be using will deploy a Multi tier VPC(Virtual Private Cloud)
 
 Click “Next” to move to specify stack details.
-
 
 <img width="1246" alt="Screenshot 2023-07-28 at 23 52 39" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/324f773b-efa1-4fec-a182-5230282c456c">
 
@@ -32,10 +30,18 @@ Step 3: Configure Stack Options
 Next up you can create tags to use for the deployment our stack.
 For the key use “Owner” and for use your email as the “Value”. Click Next to move to the stack review page. This will be our last step before we can officially deploy our VPC.
 
+
+<img width="1267" alt="Screenshot 2023-07-29 at 00 20 07" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/cf400531-69ae-4ae5-b39a-817694cb60f7">
+
+<img width="1275" alt="Screenshot 2023-07-29 at 00 20 18" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/b4f6e2db-c43b-4503-a98c-9f6535a115be">
+
+
 Step 4: Review WebApp1-VPC
 
 When you get to the review page accept the acknowledge statement. The acknowledgement statement states that it will create IAM resources for the deployment.
 Click “Submit” which will start the deployment by AWS CloudFormation.
+
+<img width="1279" alt="Screenshot 2023-07-29 at 00 20 46" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/664002c6-aa02-47e9-bc73-d584ae778b42">
 
 Step 5: Deployment in Progress
 
