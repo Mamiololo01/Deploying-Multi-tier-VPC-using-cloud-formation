@@ -74,6 +74,11 @@ You can see the deployment progress by clicking on the events tab under our stac
 The deployment time will take a few minutes before everything is successfully deployed.
 
 
+<img width="1254" alt="Screenshot 2023-07-29 at 00 22 21" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/ce335d11-c694-443c-943b-3e76083e43f8">
+
+<img width="1005" alt="Screenshot 2023-07-29 at 00 24 11" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/86bb6e56-57cb-48e5-9eb2-85ae8dd468f6">
+
+<img width="1272" alt="Screenshot 2023-07-29 at 00 21 10" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/4773683b-a4d7-456c-8ccf-e1d6e0c672da">
 
 
 Please dont forget to clean up the infrastructure to avoid bills;
