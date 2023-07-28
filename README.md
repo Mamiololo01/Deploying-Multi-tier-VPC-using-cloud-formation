@@ -15,6 +15,11 @@ The template we will be using will deploy a Multi tier VPC(Virtual Private Cloud
 
 Click “Next” to move to specify stack details.
 
+
+<img width="1246" alt="Screenshot 2023-07-28 at 23 52 39" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/324f773b-efa1-4fec-a182-5230282c456c">
+
+<img width="1273" alt="Screenshot 2023-07-28 at 23 52 49" src="https://github.com/Mamiololo01/Deploying-Multi-tier-VPC-using-cloud-formation/assets/67044030/a86dd237-85e8-4fee-a2f1-0455a72d20c6">
+
 Step 2: Specify Stack Details
 
 Once the template stack is uploaded it will pre-populate the stack details with everything needed to deploy our virtual private cloud infrastructure.
